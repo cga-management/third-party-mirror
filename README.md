@@ -15,6 +15,9 @@ as one served by the original publisher.
 |---|---|---|---|
 | `onnxruntime-1.20.1` | microsoft/onnxruntime v1.20.1, GitHub release assets | `onnxruntime-linux-x64-1.20.1.tgz`, `onnxruntime-win-x64-1.20.1.zip` | MIT |
 | `silero-vad-v6.2` | snakers4/silero-vad tag v6.2, `src/silero_vad/data/silero_vad.onnx` | `silero_vad.onnx` | MIT |
+| `appimagetool-1.9.1` | AppImage/appimagetool release 1.9.1, GitHub release asset | `appimagetool-x86_64.AppImage` | MIT |
+| `type2-runtime-20251108` | AppImage/type2-runtime release 20251108, GitHub release asset | `runtime-x86_64` | MIT |
+| `webrtc-audio-processing-1.3` | freedesktop.org/software/pulseaudio/webrtc-audio-processing | `webrtc-audio-processing-1.3.tar.xz` | BSD 3-clause, abseil Apache 2.0 |
 
 SHA-256 of every file is in the release notes and in `SHA256SUMS` beside it.
 
